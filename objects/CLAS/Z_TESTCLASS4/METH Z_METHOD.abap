@@ -1,3 +1,3 @@
   method Z_METHOD.
-write:'helloworld'.
+write:'hhvbhhchdd'.
   endmethod.
