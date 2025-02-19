@@ -1,4 +1,4 @@
   method Z_METHOD.
 write:'hhvbhhchdd'.
-write:'hello welcome to all'.
+write:'hhdksghjkhkaj to all'.
   endmethod.
