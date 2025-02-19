@@ -1,4 +1,4 @@
   method Z_METHOD.
 write:'hhvbhhchdd'.
-write:'hhdksghjkhkaj to all'.
+write:'hh,vbsdfghdjf to all'.
   endmethod.
