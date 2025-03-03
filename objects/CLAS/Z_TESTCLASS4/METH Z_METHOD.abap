@@ -1,5 +1,5 @@
   method Z_METHOD.
 write:'hhvbhhchdd'.
 write:'htestingtestingdjfdf to all'.
-write:'ttestinggctstfdhfddkhjdgfwewefdfjkslfherestingfjfjgg'.
+write:'ttegfhsgsdfstinggctstfdhfddkhjdgfwewefdfjkslfherestingfjfjgg'.
   endmethod.
