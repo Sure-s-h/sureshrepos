@@ -1,0 +1,29 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"File-1",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"File-2",
+    "LENGTH":16
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":"File-3",
+    "LENGTH":16
+   }
+  ]
+ }
+]
